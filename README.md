@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-I am Mahaveer Rulaniya, a third year undergradutae student at IIT Kharagpur. I am proficient in Machine learning, Statistics and BI with the understanding of Business domain.
+I am Mahaveer Rulaniya, a third year undergradutae student at IIT Kharagpur. I am proficient in Machine learning, Statistics and BI tools with the understanding of Business domain.
 
 - 🔭 I’m currently working on Machine Learning
 - 🌱 I’m currently learning Deep Deep Learninig and Computer Vision
