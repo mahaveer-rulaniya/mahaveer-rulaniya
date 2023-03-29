@@ -12,6 +12,13 @@ I am Mahaveer Rulaniya, student at IIT Kharagpur. I am proficient in Machine lea
 - 😄 IIT Kgpian
 - ⚡ Fun fact: I sleep in my dreams also
 
+## GitHub Activity Graph
+![GitHub Activity Graph - Custom Date Range](https://github-readme-streak-stats.herokuapp.com/?user=mahaveer-rulaniya&theme=dark&hide_border=true&background=22272e&stroke=FFFFFF&ring=2cbe4e&fire=2cbe4e&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9e9e9e&custom_title=GitHub%20Activity%20Graph&from=2019-01-01&to=2023-03-29)
+
+## GitHub Activity Graph
+![GitHub Activity Graph - Commits and Pull Requests](https://github-readme-streak-stats.herokuapp.com/?user=mahaveer-rulaniya&theme=dark&hide_border=true&background=22272e&stroke=FFFFFF&ring=2cbe4e&fire=2cbe4e&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=9e9e9e&commits=2cbe4e&prs=9e9e9e&custom_title=GitHub%20Activity%20Graph)
+
+
 [![Mahaveer's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mahaveer-rulaniya&theme=radical)](https://github.com/mahaveer-rulaniya/github-readme-streak-stats)
 
 ## Top Languages
@@ -27,24 +34,13 @@ I am Mahaveer Rulaniya, student at IIT Kharagpur. I am proficient in Machine lea
 ## GitHub Stats
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahaveer-rulaniya&theme=github_dark)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahaveer-rulaniya&theme=onedark)
 
 ## GitHub Extra Pins
 ![GitHub Extra Pins - Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahaveer-rulaniya&theme=github_dark)
 
+## GitHub Activity Graph
+![GitHub Activity Graph - Custom Colors](https://activity-graph.herokuapp.com/graph?username=mahaveer-rulaniya&theme=github&custom_title=GitHub%20Activity%20Graph&custom_color=Monday,f4f4f4,Tuesday,f4dcdc,Wednesday,f4c6c6,Thursday,f4a8a8,Friday,f48080,Saturday,f46c6c,Sunday,f44646)
 
-## GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mahaveer-rulaniya&theme=onedark&title=Stars,Followers,Repositories)
-
-## GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=mahaveer-rulaniya&theme=flat&no-frame=true&margin-w=30&margin-h=30&column=7" alt="GitHub Trophies" width="100%">
-  </a>
-</p>
-
-Hover over each trophy to see details for that achievement.
 
 
 
