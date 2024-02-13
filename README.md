@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-I am Mahaveer Rulaniya, student at IIT Kharagpur. I am proficient in Machine learning, Statistics and Data Analysis with the understanding of Business domain.
+I am Mahaveer Rulaniya, graduated from IIT Kharagpur. I am currently working as a Data Scientist at Assurant. I am proficient in Machine learning, Statistics and Data Analysis with the understanding of Business domain.
 
 - 🔭 I’m currently working on Machine Learning & Software Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahaveer-rulaniya/) or you can mail me at iitkgp.vee@gmail.com
